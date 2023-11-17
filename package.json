@@ -1,0 +1,14 @@
+{
+  "name": "blank-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  },
+  "keywords": []
+}
